@@ -36,7 +36,7 @@ cd Brute_Forced-simulation-forfon-
 
 2. Jalankan script:
 ```bash
-python bruteforcesimulation.py
+python Bruteforced.py
 
 
 
