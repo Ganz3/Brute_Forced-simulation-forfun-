@@ -1,4 +1,3 @@
-from email.mime import base
 import itertools  # Untuk menghasilkan kombinasi karakter
 import string  # Untuk mendapatkan kumpulan karakter
 import random  # Untuk operasi acak
